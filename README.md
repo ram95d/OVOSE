@@ -1,0 +1,1 @@
+# OVOSE-Open-Vocabulary-Semantic-Segmentation-in-Event-Based-Cameras
